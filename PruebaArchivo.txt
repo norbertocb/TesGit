@@ -22,3 +22,7 @@ cambio desde github .
 Cambio para conflicto git
 cambiando el archivo
 
+asdasd
+
+para el segundo commit
+para el tercer commit
