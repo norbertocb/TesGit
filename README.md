@@ -10,10 +10,5 @@ prueba
 
 UNA MAS
 
-Prueba Rubens
-
-Prueba carlos
-
-
 Aqui estuvo Luis
 Nuevamente Luis
