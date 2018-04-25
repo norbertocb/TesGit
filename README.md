@@ -1,5 +1,4 @@
 TesGit
-======
 
 This is a test for managament git
 Commit from local branch master
@@ -10,10 +9,12 @@ prueba
 
 UNA MAS
 
-Prueba Rubens
-
-Prueba carlos
-
-
 Aqui estuvo Luis
+
 Nuevamente Luis
+
+
+
+
+holi
+hola
